@@ -402,4 +402,4 @@ public class mahasiswaMain {
 }
 ```
 Output : 
-<p><img src = "7.JPEG">
+<p><img src = "7.jpeg">
